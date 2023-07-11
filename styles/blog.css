@@ -3,3 +3,7 @@ div {
     padding: 10px;
     margin-bottom: 10px;
 }
+.ball{
+    size: 20%;
+    border-color: black;
+}
